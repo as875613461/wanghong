@@ -20,6 +20,7 @@ public class Student {
     private String name;
     private Integer age;
     private String phone;
+    private String address;
 
     @Override
     public String toString() {
